@@ -3,7 +3,7 @@
     <br>Hi there! 👋<br>
     <br>I'm <b>Salman Moulid</b> — Web Developer, Mobile App Developer & YouTuber 🎥<br>
     <br>
-    <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGRlaDN1NGlmM28xYnpwOTVkOTVleXFtNmtiZm12aWt3aTl5ZjdjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)" alt="Coding" width="500">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGRlaDN1NGlmM28xYnpwOTVkOTVleXFtNmtiZm12aWt3aTl5ZjdjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding" width="500">
   </abc>
 </h2>
 
