@@ -1,80 +1,54 @@
-<h2 align="left">
-  <abc>
-    <br>Hi there! 👋<br>
-    <br>I'm <b>Salman Moulid</b> — Web Developer, Mobile App Developer & YouTuber 🎥<br>
-    <br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRrejAyN21qamh6NXV1bHg0ZHJ2OHg0cGE0ZW9nN3h3bmtwdWg1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500">
-  </abc>
-</h2>
+<div align="center" width="50">
 
-<h2 align="left">🛠️ Technologies & Tools I Use:</h2>
-<p align="left">
-  <!-- Web -->
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  
-  <!-- Programming Languages -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  </a>
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRrejAyN21qamh6NXV1bHg0ZHJ2OHg0cGE0ZW9nN3h3bmtwdWg1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Salman Coding" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-</p>
+<details>
+<p><strong> <summary>  🎧 Coding & Vibing to: </summary> </strong></p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
-- 💻 I’m a **Web Developer** and **Mobile App Developer** who loves creating modern and functional applications.  
-- 🎨 Passionate about **UI/UX Design** and **frontend creativity**.  
-- 📱 Experienced with **Flutter & Dart** for mobile app development.  
-- 🎥 **YouTuber**, creating tech tutorials and development content.  
-- 🚀 Always exploring new technologies and building unique projects.  
-- 💡 Life motto: “Code. Create. Inspire.”  
+</details>
 
-<h2 align="left">🤝 Connect With Me:</h2>
+![Totals Hits](https://komarev.com/ghpvc/?username=SalmanMoulid&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SalmanMoulid&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Salman%20Moulid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![Facebook Badge](https://img.shields.io/badge/-Salman%20Moulid-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/)](https://facebook.com/)
-[![Instagram Badge](https://img.shields.io/badge/-@salmanmoulid-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
+[![GitHub Badge](https://img.shields.io/badge/-SalmanMoulid-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/SalmanMoulid)](https://github.com/SalmanMoulid)
+[![Linkedin Badge](https://img.shields.io/badge/-Salman%20Moulid-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![Instagram Badge](https://img.shields.io/badge/-@salmanmoulid-D7008A?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
+[![Facebook Badge](https://img.shields.io/badge/-SalmanMoulid-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/)](https://facebook.com/)
 [![WhatsApp Badge](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/)](https://wa.me/)
-[![YouTube Badge](https://img.shields.io/badge/-Salman%20Moulid-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/)](https://www.youtube.com/)
+[![Line Badge](https://img.shields.io/badge/-Line-00C300?style=flat-square&logo=line&logoColor=white&link=https://line.me/)](https://line.me/)
 
----
+</div>
 
-<h3 align="center">⭐ Keep Coding • Keep Creating ⭐</h3>
+<hr></hr>
+
+<h2 align="center">🚀 Technologies & Tools I Use</h2>
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
+
+```dart
+// tools_I_use organized by Salman Moulid
+class About extends Me {
+  const myTools = {
+    "Languages": { "C#", "C++", "Python", "Dart", "JavaScript" },
+    "Frameworks": { "Flutter", "React", "Node.js" },
+    "Design": { "Figma", "Photoshop" },
+    "Database": { "Firebase", "SQLite" },
+    "Platforms": { "Windows", "Linux" },
+    "Editors": { "VS Code", "Android Studio" }
+  };
+}
